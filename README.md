@@ -2,6 +2,13 @@
 
 Une application Flutter complète de point de vente (POS) pour un supermarché, intégrant des fonctionnalités d'impression thermique via Bluetooth.
 
+## Demonstration
+
+
+https://github.com/user-attachments/assets/be138eeb-ed7e-477a-953e-06c8e8952626
+
+
+
 ## 📱 Fonctionnalités
 
 - **Interface Moderne et Intuitive** : Design épuré présentant un panier d'articles de supermarché avec quantités, prix en euros (EUR), et un calcul dynamique du total.
